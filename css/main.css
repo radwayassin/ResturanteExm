@@ -1,5 +1,4 @@
 body{background-color:#F3F3F3;}
-
 /* Slider */
 .slider .carousel-inner{
     display: flex;
@@ -35,9 +34,7 @@ body{background-color:#F3F3F3;}
     background-image: url('../images/1.jpg')}
 .slider .items .carousel-two {
     background-image: url('../images/2.jpg')}
-
 /* End Slider */
-
 /* Start Navbar */
 .navbar{background-color: #222e32;}
 .navbar-dark .navbar-brand{color: beige;}
@@ -58,7 +55,6 @@ body{background-color:#F3F3F3;}
     letter-spacing:1px;
 }
 /* End Navbar */
-
 /* Start About */
 .about{padding: 50px 0; background-color: #FFF;}
 .about .info{padding: 5em;}
@@ -78,7 +74,6 @@ body{background-color:#F3F3F3;}
 .about .info {padding: 2em;}
 .about .info h1 {margin-top: 0;}
 }
-
 .about strong{color:#145478;}
 .about i{color:#145478;}
 .about .img-one{box-shadow: 10px 10px 10px #777; margin-top: 4em; width: 100%;}
@@ -105,7 +100,6 @@ body{background-color:#F3F3F3;}
     font-family:"Courier", monospace;}
 .services i {color: #E06666}
 /* End Services */
-
 /* Start Recipes */
 .recipes{padding: 100px 0;background-color: #FFF;}
 .recipes h1{
@@ -138,7 +132,6 @@ body{background-color:#F3F3F3;}
 .recipes{padding: 50px 0;}
 .recipes h1{margin-bottom: 1em;}
 .recipes img {width: 50%;}
-
 }
 /* End Recipes */
 /* Start Menu */
@@ -167,7 +160,6 @@ body{background-color:#F3F3F3;}
     margin: 20px 0;
 }
 /* End Menu */
-
 /* Start Blogs */
 .blog { padding: 100px 0;}
 .blog h1 {
@@ -216,7 +208,6 @@ body{background-color:#F3F3F3;}
 .testmonial span {
     color: #E06666;
     font-size: 20px;
-
  }
 /*End Testmonial*/
 /*Start Contact*/
@@ -233,7 +224,6 @@ body{background-color:#F3F3F3;}
     font-weight: 900;
     font-family:"Courier New", monospace;
 }
-
 .contact p{
     color: #C2C2C2;
     font-size: 16px;
